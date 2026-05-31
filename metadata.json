@@ -1,0 +1,6 @@
+{
+  "name": "Pneumonia Detection Lab",
+  "description": "An interactive computer-aided chest X-ray diagnostic playground featuring Gemini-driven vision classification and an educational FastAI training sandbox with ResNet50.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
